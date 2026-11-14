@@ -13,3 +13,5 @@
 
 # stuff for fun, but it's still free will because YOU choose :D
 - click a button and go to a random useless website: https://theuselessweb.com
+  
+- banana. (free ad?): https://bananasrananas.com/
