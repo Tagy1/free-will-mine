@@ -11,6 +11,10 @@
 
 - privacy and security advice: https://privsec.dev/
 
+- signal messenger, the gold standard of end to end encryption: https://signal.org/
+
+- grapheneos, one of the most secure operating systems: https://grapheneos.org/
+
 # stuff for fun, but it's still free will because YOU choose :D
 - click a button and go to a random useless website: https://theuselessweb.com
   
