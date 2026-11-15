@@ -4,3 +4,8 @@
   <p>(though it would still be cool if you'd help this one! :D)</p>
 - <b>ADVICE 2 Electric Boogaloo:</b> make a website that's only for fun, examples are in [the useless web](https://theuselessweb.com)
 
+# security 
+- privacy without security is contradictory, any privacy you have is lost if you have bad security. the second a program you run is exploited or winds up being malicious your data is in the hands of some unknown third party. it's strongly encouraged to harden devices, use strong passwords and avoid software that has more secure alternatives 
+
+## a great man once said:
+> "you have nothing if you have no rights"
